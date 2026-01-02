@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn==0.23.2
+pydantic==2.5.2
+joblib==1.5.3
+numpy==2.4.0
+pandas==2.3.3
+scikit-learn==1.8.0
+scipy==1.16.3
+threadpoolctl==3.6.0
+
